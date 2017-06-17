@@ -1,6 +1,5 @@
 ---
 title: Exploring the reality of onboard training in the Merchant Navy
-date: 2017-10-01 15:27:31
 ---
 
 > ‘The Merchant Navy Training Board has always found working with The Mackinnon Partnership very refreshing. They are responsive, thorough, ... they make constructive comments ... the reports they produce are easy to read, written in plain English ...’
