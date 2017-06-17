@@ -11,8 +11,11 @@ links:
   - name:         Posts
     url:          /
     external:     false
-  - name:         About me
+  - name:         About Us
     url:          /about
+    external:     false
+  - name:         Case Studies
+    url:          /casestudies
     external:     false
 # ------------ CONFIGURABLE END ------------
 
