@@ -10,9 +10,8 @@
   <body class="lh-copy dark-gray pa0 f6 sans-serif bg-super-white">
     <header class="tc mt4">
       <a href="{{ site.url }}">
-        <img src="{{ site.url }}/images/header.jpg" alt="Home" width="504" height="165">
+        <img src="{{ site.url }}/images/header.png" alt="Home" width="504" height="165">
       </a>
-      <p>{{ site.title }}</p>
     </header>
     <div class="mw7 bg-white mt4 mb3 center br2-ns bt bb ba-ns b--light-gray">
       <nav class="bb b--light-gray pv4 tc" aria-label="Main">
@@ -47,9 +46,5 @@
       </main>
       {% if is_post %}{% include pagination.html %}{% endif %}
     </div>
-    <footer class="mw7 center tc pt3 pb4 silver">
-      Built with Jekyll using <a href="http://github.com/muan/scribble" class="link silver hover-blue pv1">Scribble</a>.
-      <img src="{{ site.url }}/images/scribble2.png" alt="scribble" class="mt4 db center" />
-    </footer>
   </body>
 </html>
