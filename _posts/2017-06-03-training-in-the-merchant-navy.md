@@ -4,7 +4,7 @@ date: 2017-10-01 15:27:31
 ---
 
 > ‘The Merchant Navy Training Board has always found working with The Mackinnon Partnership very refreshing. They are responsive, thorough, ... they make constructive comments ... the reports they produce are easy to read, written in plain English ...’
-> - Glenys Jackson, Merchant Navy Training Board
+> Glenys Jackson, Merchant Navy Training Board
 
 On-the-job training is commonly tougher to manage effectively than what happens in a classroom, which is, of course, immediately accessible and in the hands of trained lecturers. Imagine how much harder it is when on-the-job training takes place at sea, a long way from central supervision.
 
