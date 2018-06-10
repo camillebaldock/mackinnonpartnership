@@ -16,7 +16,7 @@ I’m known for doing high quality work, presented in clear, concise, easy-to-re
 
 Please get in touch if you think I might be of some use to you.
 
-Email: iain@themackinnonpartnership.co.uk
+Email: [iain@themackinnonpartnership.co.uk](mailto:iain@themackinnonpartnership.co.uk)
 
 Telephone: 0208 99 88 77 2
 
