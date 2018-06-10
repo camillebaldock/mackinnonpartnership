@@ -2,14 +2,22 @@
 title: Home
 ---
 
-There’s no shortage of consultants who get the basics right, but if you want personal attention from experienced consultants who really do know their field, and who work imaginatively to find solutions to your problems and insights into your practice, you’ve come to the right place.
+I’m a problem solver.   I do my best work with clients who want help to find an answer to a problem they’re wrestling with, or an opportunity they want explored.  I’m interested in the issues and I’m keen to find better ways of doing things. 
 
-We are a public policy consultancy, specialising in the labour market. Our core business is research and evaluation, and over the last 12 years we’ve built up a considerable client portfolio across the public sector in the UK, from national agencies to small local initiatives.
+I take on work where I think I can add something - and if I don’t think I can, I’ll say so (and introduce you to someone else wherever possible). 
 
-We’ve featured a number of case studies on this site to show you more detail about what we do, but inevitably they don’t cover everything. If you have something in mind and you’re not sure if it’s our thing or not, call me direct and ask. I won’t mess you about, because we won’t take on any project we can’t do well. (And if I possibly can, I’ll recommend someone else if we can’t help ourselves).
+What I know most about is public policy in the UK, in and around the labour market, particularly at the point where public bodies work with employers and others to make a difference. 
 
-We are known for doing high quality work, presented in clear, concise, easy-to-read, reports, and work which helps our clients to do their job better.
+I’ve spent all my career in the public policy field in the UK, working in senior positions in the public, private and non-profit sectors, and in a range of non-executive roles. 
 
-And we don’t cost the earth. We’ve cut our costs a lot in response to the changed demands of the public sector, so we’re able to offer the same quality as before at a competitive rate. Price alone is a poor basis for buying consultancy - but we know it matters to our clients.
+Alongside The Mackinnon Partnership, I am Secretary to the [Maritime Skills Alliance](http://www.maritimeskills.org/).  You can see my full profile [here](https://www.linkedin.com/in/iain-mackinnon-0413221/).
 
-Contact me at iain@themackinnonpartnership.co.uk, or 0208 99 88 77 2, or 0771 424 6740.
+I’m known for doing high quality work, presented in clear, concise, easy-to-read, reports. 
+
+Please get in touch if you think I might be of some use to you.
+
+Email: iain@themackinnonpartnership.co.uk
+
+Telephone: 0208 99 88 77 2
+
+Mobile: 0771 424 6740
